@@ -7,7 +7,4 @@
 	});
 	`;
 	document.head.appendChild(script);
-
-	//document.body.style.transform = 'translate(-72px, 0)';
-	//document.body.style.width = `${window.outerWidth + 72}px`;
 }
