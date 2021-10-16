@@ -1,12 +1,10 @@
-body {
-	transform: translate(-72px, 0);
-	width: calc(100vw + 72px);
+.GameComponent-container > :nth-child(1) > :nth-child(1) {
+	display: none !important;
 }
-
 /* Additional */
 .GameCanvasContainer-settings {
 	display: none;
 }
 .GameVideo-self-video-container {
-	display: none;
+	display: none !important;
 }
