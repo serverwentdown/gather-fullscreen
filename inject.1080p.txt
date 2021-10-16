@@ -1,0 +1,5 @@
+window.innerWidth = 1920 + 72;
+window.innerHeight = 1080;
+
+document.body.style.transform = 'translate(-72px, 0)';
+document.body.style.width = `${1920 + 72}px`;

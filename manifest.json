@@ -1,0 +1,12 @@
+{
+		"name": "Gather Fullscreen",
+		"description": "Click to show Gather in fullscreen",
+		"version": "1.0",
+		"permissions": ["contextMenus", "scripting"],
+		"host_permissions": ["https://gather.town/app/*"],
+		"background": {
+			"type": "module",
+			"service_worker": "background.js"
+		},
+		"manifest_version": 3
+}

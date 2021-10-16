@@ -1,0 +1,12 @@
+body {
+	transform: translate(-72px, 0);
+	width: calc(100vw + 72px);
+}
+
+/* Additional */
+.GameCanvasContainer-settings {
+	display: none;
+}
+.GameVideo-self-video-container {
+	display: none;
+}
